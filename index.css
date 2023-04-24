@@ -1,0 +1,46 @@
+.img_main{
+    width: 250px;
+    height: 200px;
+    padding-left: 590px;
+}
+.category__heading-icon2{
+    font-size: 3.5rem;
+    margin-right: 4px;
+    position: relative;
+    top: -1px;
+    color: blue;
+    margin: 30px 10px;
+    list-style: none;
+}
+.category__heading-icon3{
+    font-size: 3.5rem;
+    margin-right: 4px;
+    position: relative;
+    top: -1px;
+    margin: 30px 10px;
+}
+.icon__category{
+    list-style: none;
+    display: flex;
+    padding-left: 600px;
+    margin: 10px 10px;
+}
+.interest{
+    display: flex;
+}
+.img-edit{
+    width: 280px;
+    height: 250px;
+    max-width: 100%;
+    margin: 10px 40px;
+}
+.ingredient-title{
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 24px;
+    color: black;
+    text-align: center;
+}
+.app-container-box{
+    text-decoration: none;
+}
